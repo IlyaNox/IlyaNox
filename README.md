@@ -24,7 +24,7 @@ Wireshark | Nmap | Burp Suite | Hashcat | SQLmap | tcpdump
 
 <img src="https://streak-stats.demolab.com/?user=IlyaNox&theme=dark&background=071A33&border=173B63&stroke=173B63&ring=3B82F6&fire=60A5FA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=93C5FD&sideLabels=CBD5E1&dates=64748B" alt="GitHub Streak" height="180" />
 
-<img src="https://awesome-github-stats.azurewebsites.net/user-stats/ilyanox?cardType=level&theme=dark&preferLogin=false" alt="GitHub Stats" height="210" />
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/ilyanox?cardType=level&theme=dark&preferLogin=false" alt="GitHub Stats" height="220" />
 
 </p>
 
